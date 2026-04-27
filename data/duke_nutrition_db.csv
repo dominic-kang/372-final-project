@@ -1,0 +1,166 @@
+food_name,calories,protein_g,carbs_g,fat_g,serving_size,dining_location
+Americano Decaffeinated,0,0,0,0,20 oz (567g),Bella Union
+Americano Regular,5,0,0,0,20 oz (567g),Bella Union
+Cafe Au Lait Skim Milk,130,13,20,0,16 oz (454g),Bella Union
+Cafe Au Lait Soy Milk,220,16,19,8,16 oz (454g),Bella Union
+Cafe Au Lait Whole Milk,200,10,16,10,12 oz (340g),Bella Union
+Cappuccino Oat Milk,230,5,29,10,12 oz (340g),Bella Union
+Cappuccino Skim Milk,150,14,21,0,16 oz (454g),Bella Union
+Cappuccino Soy Milk,320,23,27,11,20 oz (567g),Bella Union
+Decaf Mocha Whole Milk,440,18,48,17,20 oz (567g),Bella Union
+Brown Rice,190,5,39,1,7.5 oz Portion (170g),Ginger + Soy
+Greens,10,1,3,0,2.2 oz Portion (48g),Ginger + Soy
+Seasoned Rice,270,6,53,2,7.5 oz Portion (213g),Ginger + Soy
+White Rice,220,4,47,0,7.5 oz Portion (213g),Ginger + Soy
+Bubu Arare,25,0,5,0,.2 oz Portion (6g),Ginger + Soy
+Crab Salad,120,4,6,9,2 oz Portion (57g),Ginger + Soy
+Eel Sauce,25,0,6,0,0.5 oz Portion (15g),Ginger + Soy
+Kale Salad,10,0,2,0,0.4 oz Portion (12g),Ginger + Soy
+Lemonaise Dill Sauce,35,0,1,3,.2 oz Portion (6g),Ginger + Soy
+Marinated Salmon,160,20,0,8,3 oz Portion (85g),Ginger + Soy
+Pickled Carrot,30,0,7,0,1 oz Portion (43g),Ginger + Soy
+Pickled Red Cabbage,15,0,4,0,1 oz Portion (28g),Ginger + Soy
+Seaweed Salad,40,1,5,2,1.5 oz Portion (43g),Ginger + Soy
+Spicy Mayo,90,0,2,9,.5 oz Portion (14g),Ginger + Soy
+Bubu Arare,25,0,5,0,.2 oz Portion (6g),Ginger + Soy
+Crab Salad,120,4,6,9,2 oz Portion (57g),Ginger + Soy
+Eel Sauce,25,0,6,0,0.5 oz Portion (15g),Ginger + Soy
+Kale Salad,10,0,2,0,0.4 oz Portion (12g),Ginger + Soy
+Lemonaise Dill Sauce,35,0,1,3,.2 oz Portion (6g),Ginger + Soy
+Pickled Carrot,30,0,7,0,1 oz Portion (43g),Ginger + Soy
+Pickled Red Cabbage,15,0,4,0,1 oz Portion (28g),Ginger + Soy
+Seaweed Salad,40,1,5,2,1.5 oz Portion (43g),Ginger + Soy
+Spicy Mayo,90,0,2,9,.5 oz Portion (14g),Ginger + Soy
+Spicy Tuna,110,15,1,3,3 oz Portion (85g),Ginger + Soy
+Bubu Arare,25,0,5,0,.2 oz Portion (6g),Ginger + Soy
+Crab Salad,120,4,6,9,2 oz Portion (57g),Ginger + Soy
+Eel Sauce,25,0,6,0,0.5 oz Portion (15g),Ginger + Soy
+Kale Salad,10,0,2,0,0.4 oz Portion (12g),Ginger + Soy
+Lemonaise Dill Sauce,350,0,12,34,2 oz Portion (57g),Ginger + Soy
+Marinated Tuna,120,19,0,4,3 oz Portion (85g),Ginger + Soy
+Chicken Tenders,300,30,9,17,4 Pc Portion (165g),Gothic Grill
+Crispy Cauliflower,380,3,30,28,5.5 oz Portion (158g),Gothic Grill
+Fried Shrimp,280,11,16,19,4 oz Portion (125g),Gothic Grill
+Sweet Potato Waffle Fries,380,1,33,28,4.5 oz Portion (128g),Gothic Grill
+Buffalo Chicken Macaroni and Cheese,490,39,28,23,10 oz Portion (283g),Gothic Grill
+Macaroni and Cheese Cup,360,13,28,20,6.5 oz Portion (184g),Gothic Grill
+Mozzarella Sticks,640,24,44,42,6 oz Portion (195g),Gothic Grill
+Chicken Cheese Nachos,960,63,70,49,Portion (468g),Gothic Grill
+Bavarian Pretzel,720,24,132,10,Portion (283g),Gothic Grill
+Tortilla Chips with Guacamole,720,14,99,34,10 oz Portion (283g),Gothic Grill
+Chicken Wings,1040,61,0,89,6 Pc Portion (303g),Gothic Grill
+Beer Cheese,240,10,8,18,4 oz Portion (113g),Gothic Grill
+Gothic Sauce,410,0,11,39,1.3 oz Portion (105g),Gothic Grill
+Buttermilk Ranch Dressing,200,1,3,21,2 oz Portion (57g),Gothic Grill
+Marinara Sauce,35,1,6,0,3 oz Portion (85g),Gothic Grill
+Buffalo Sauce,35,0,3,3,2 oz Portion (57g),Gothic Grill
+Garlic Parmesan Sauce,210,0,5,21,3 oz Portion (85g),Gothic Grill
+Honey Mustard Sauce,130,0,11,4,2 oz Portion (57g),Gothic Grill
+Umami Sauce,150,2,13,10,2.5 oz Portion (71g),Gothic Grill
+Cocktail Sauce,25,0,6,0,1 oz Portion (28g),Gothic Grill
+Barbecue Sauce,80,0,17,0,2 oz Portion (57g),Gothic Grill
+Caesar Salad,860,28,39,74,Salad (376g),Gothic Grill
+Caprese Salad,570,26,29,38,Salad (471g),Gothic Grill
+Grilled Chicken Salad,430,57,12,16,Salad (510g),Gothic Grill
+Crispy Buffalo Chicken Salad,670,27,41,39,Salad (567g),Gothic Grill
+Crispy Chicken Caesar Salad,1250,53,53,95,Salad (510g),Gothic Grill
+Broccoli and Cheese Soup,210,7,15,13,8 oz Portion (227g),Gothic Grill
+Chicken and Noodle Soup,80,4,11,2,Cup Portion (227g),Gothic Grill
+Chicken Tortilla Soup,190,7,24,6,Bowl (433g),Gothic Grill
+Tomato Basil Soup,230,7,20,13,Cup Portion (214g),Gothic Grill
+Edamame,110,12,9,4,5 oz Portion (171g),Gyotaku
+Miso Soup,25,2,3,1,Cup Portion (193g),Gyotaku
+Milk Bubble Tea,400,14,80,9,16 oz Cup (458g),Gyotaku
+Salmon,110,17,0,5,3 oz Portion (85g),Gyotaku
+Tuna,100,17,0,3,3 oz Portion (71g),Gyotaku
+Avocado,100,1,5,9,2 oz Portion (64g),Gyotaku
+Fried White Corn Tortilla Chips,170,2,18,10,1 oz Portion (31g),Gyotaku
+Cilantro,0,0,0,0,.1 oz Portion (3g),Gyotaku
+Crab Salad,180,5,9,14,3 oz Portion (85g),Gyotaku
+Cucumber,0,0,0,0,.1 oz Portion (3g),Gyotaku
+Eel Sauce,25,0,6,0,0.5 oz Portion (15g),Gyotaku
+Green Onion,15,0,2,0,.1 oz Portion (28g),Gyotaku
+Sesame Oil,50,0,0,6,.2 oz Portion (6g),Gyotaku
+Sesame Seed,15,0,0,1,.1 oz Portion (3g),Gyotaku
+Soy Sauce,0,0,0,0,.1 oz Portion (3g),Gyotaku
+Spicy Mayo,90,0,2,9,.5 oz Portion (14g),Gyotaku
+Sushi Rice,190,3,42,0,5 oz Portion (142g),Gyotaku
+White Sauce,15,0,0,1,.1 oz Portion (3g),Gyotaku
+Eel,80,5,3,5,.8 oz Portion (23g),Gyotaku
+Eel Nigiri,120,6,11,5,1.8 oz Portion (51g),Gyotaku
+Salmon,25,3,0,1,0.6 oz Portion (17g),Gyotaku
+Salmon Nigiri,150,12,14,4,1.6 oz Portion (91g),Gyotaku
+Shrimp Nigiri,50,4,9,0,1.5 oz Portion (43g),Gyotaku
+Shrimp,15,3,0,0,.5 oz Portion (14g),Gyotaku
+Tuna,20,3,0,0,.6 oz Portion (14g),Gyotaku
+Tuna Nigiri,130,12,14,2,1.6 oz Portion (91g),Gyotaku
+Yellowtail,40,4,0,2,0.6 oz Portion (17g),Gyotaku
+Yellowtail Nigiri,80,5,7,3,1.6 oz Portion (45g),Gyotaku
+Blossom Roll,410,21,41,18,Roll (250g),Gyotaku
+California Roll,250,6,36,9,Roll (173g),Gyotaku
+Chili Rubbed Mahi Mahi,190,25,0,10,6 oz Portion (170g),J.B.'s Roast & Chops
+Grilled Salmon,280,37,0,14,6 oz Portion (150g),J.B.'s Roast & Chops
+Grilled Yellow Fin Tuna,140,34,0,0,6 oz Portion (137g),J.B.'s Roast & Chops
+Shrimp Skewer,110,19,0,2,Skewer (174g),J.B.'s Roast & Chops
+London Broil,400,60,1,15,8 oz Portion (227g),J.B.'s Roast & Chops
+Prime Rib,350,35,2,22,5 oz Portion (142g),J.B.'s Roast & Chops
+Flame Roasted Chicken,120,14,0,7,Half (50g),J.B.'s Roast & Chops
+Grilled Chicken Breast,220,41,0,4,4.5 oz Portion (130g),J.B.'s Roast & Chops
+Paella Mixta,380,21,35,16,9.6 oz Portion (272g),J.B.'s Roast & Chops
+Petite Sirloin,240,28,0,13,4 oz Portion (109g),J.B.'s Roast & Chops
+Pork Chop,560,60,0,33,8 oz Portion (240g),J.B.'s Roast & Chops
+Pork Rib Rack,1380,94,115,51,1/3 Rack (408g),J.B.'s Roast & Chops
+Ribeye,550,51,5,36,Portion (224g),J.B.'s Roast & Chops
+Beef Skewer,400,35,5,26,Skewer (218g),J.B.'s Roast & Chops
+Beef Au Jus,35,2,6,0,2 oz Ladle (56g),J.B.'s Roast & Chops
+Chimichurri Sauce,30,1,4,1,2 oz Portion (57g),J.B.'s Roast & Chops
+Chipotle Ranch Dressing,210,0,2,23,2 oz Portion (57g),J.B.'s Roast & Chops
+Honey Mustard Sauce,230,0,5,22,2 oz Portion (57g),J.B.'s Roast & Chops
+House Steak Sauce,270,0,3,29,2 oz Portion (57g),J.B.'s Roast & Chops
+Shallot and Red Wine Butter Sauce,150,0,0,16,1 oz Portion (28g),J.B.'s Roast & Chops
+Western NC BBQ Sauce,70,0,16,0,2 oz Portion (57g),J.B.'s Roast & Chops
+Apple Fennel Salad,400,4,42,26,Large (310g),J.B.'s Roast & Chops
+Caesar Salad,100,4,9,6,Large (50g),J.B.'s Roast & Chops
+Smoked Chophouse Salad,670,22,52,45,Salad (849g),J.B.'s Roast & Chops
+Wedge Salad,530,21,15,44,Salad (419g),J.B.'s Roast & Chops
+Grilled Chicken Breast,220,41,0,4,4.5 oz Portion (130g),J.B.'s Roast & Chops
+Grilled Salmon,280,37,0,14,6 oz Portion (150g),J.B.'s Roast & Chops
+London Broil,250,38,0,9,5 oz Portion (142g),J.B.'s Roast & Chops
+Beyond Meat Burger,880,37,53,58,Sandwich (393g),J.B.'s Roast & Chops
+Black and Blue Burger,730,43,49,39,Sandwich (271g),J.B.'s Roast & Chops
+"Flour Tortilla 12""",290,8,48,7,Tortilla (95g),Sazon
+"Flour Tortilla 6""",300,9,48,8,2 Tortilla Portion (99g),Sazon
+Latin Arepa Bowl,160,3,23,8,Arepa (72g),Sazon
+"White Corn Tortilla 6""",270,3,32,15,2 Tortilla Portion (87g),Sazon
+Beef Barbacoa,210,28,5,8,Arepa Bowl Portion (135g),Sazon
+Chipotle Chicken,220,29,3,9,Taco Portion (140g),Sazon
+Pork Carnitas,190,15,9,14,Taco Portion (128g),Sazon
+Portobello Mushrooms,30,1,5,0,Taco Portion (92g),Sazon
+Blackened Shrimp,150,17,0,10,Arepa Bowl Portion (139g),Sazon
+Steak,240,34,0,10,Taco Portion (112g),Sazon
+Chorizo,260,15,8,18,Arepa Portion (128g),Sazon
+Tofurizo,270,24,12,16,Arepa Portion (210g),Sazon
+Hot Honey Chicken,380,30,13,23,Arepa Portion (205g),Sazon
+Black Beans,60,4,11,0,Taco Portion (76g),Sazon
+Shredded Cheddar Monterey Jack Cheese,40,2,0,3,Arepa Bowl Portion (11g),Sazon
+Cheese Cotija,50,3,0,4,Taco Portion (14g),Sazon
+Cilantro Lime Coleslaw,140,0,7,12,Taco Portion (58g),Sazon
+Habanero Coleslaw,60,0,4,5,Taco Portion (58g),Sazon
+Fajita Peppers and Onions,60,0,4,4,Taco Portion (53g),Sazon
+Guacamole,100,1,7,8,Taco Portion (85g),Sazon
+Maduros (Sweet Plantains),160,0,25,6,2 Piece Portion (55g),Sazon
+Cilantro Lime Brown Rice,70,1,15,0,Taco Portion (73g),Sazon
+Cilantro Lime White Rice,100,2,22,0,Quesadilla Portion (98g),Sazon
+Pico de Gallo,10,0,2,0,Quesadilla Portion (45g),Sazon
+Corn Salsa,25,0,6,0,Taco Portion (32g),Sazon
+Roasted Salsa,20,0,4,0,2 oz Portion (57g),Sazon
+Romaine Lettuce,0,0,0,0,Arepa Bowl Portion (25g),Sazon
+Queso Dip,130,6,5,9,Arepa Bowl Portion (69g),Sazon
+Bacon Egg and Cheese Bagel,500,24,57,21,Sandwich (246g),The Devils Krafthouse
+Breakfast Potato Bowl,730,37,41,46,Bowl (454g),The Devils Krafthouse
+Breakfast Potatoes,170,3,28,5,4 oz Portion (113g),The Devils Krafthouse
+Egg and Cheese Sandwich,350,17,33,17,Sandwich (141g),The Devils Krafthouse
+Southwest Wrap,760,36,62,40,Wrap (383g),The Devils Krafthouse
+Turkey Sausage Egg Bagel,470,24,56,17,Sandwich (210g),The Devils Krafthouse
+Vegetable Goat Cheese Bowl,680,36,53,38,Bowl (482g),The Devils Krafthouse
+Southwest Breakfast Bowl,930,51,48,58,Bowl (468g),The Devils Krafthouse
