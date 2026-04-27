@@ -59,7 +59,6 @@ CLIP zero-shot accuracy figures are from Radford et al. (2021) and confirmed aga
 | Input image | Top-1 prediction | Confidence | Best Duke match | Similarity |
 |-------------|-----------------|------------|-----------------|------------|
 | chicken_quesadilla.jpeg | chicken quesadilla | 0.992 | Chipotle Chicken (Sazon) | 0.627 |
-| pizza.jpeg | pizza | 0.996 | Shrimp (Gyotaku) | 0.484 |
 | hamburger.jpeg | hamburger | 0.987 | Beyond Meat Burger (J.B.'s Roast & Chops) | 0.669 |
 | example1.jpeg | baby back ribs | 0.977 | Pork Rib Rack (J.B.'s Roast & Chops) | 0.603 |
 
