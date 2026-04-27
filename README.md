@@ -36,7 +36,7 @@ See **[SETUP.md](SETUP.md)** for full step-by-step instructions and environment 
 ## Video Links
 
 - **Demo video:** [`Youtube Link`](https://youtu.be/iMOFGj5-AdQ) or [`videos/project_demo.mp4`](videos/project_demo.mp4)
-- **Technical walkthrough:** `[TODO — add link before submission]`
+- **Technical walkthrough:** [`Youtube Link`](https://youtu.be/AftJaliRNUg) (Too big for github storage)
 
 Local copies are in `videos/`.
 
