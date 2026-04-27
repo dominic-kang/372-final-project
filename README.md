@@ -35,7 +35,7 @@ See **[SETUP.md](SETUP.md)** for full step-by-step instructions and environment 
 
 ## Video Links
 
-- **Demo video:** `videos/project_demo.mp4`
+- **Demo video:** `https://youtu.be/iMOFGj5-AdQ`
 - **Technical walkthrough:** `[TODO — add link before submission]`
 
 Local copies are in `videos/`. The narrated script for the technical walkthrough is at [`docs/technical_walkthrough_script.md`](docs/technical_walkthrough_script.md).
